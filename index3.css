@@ -1,0 +1,42 @@
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.A{
+    margin-left: 30px;
+}
+.child{
+    height: 240px;
+    width: 150px;
+    border: 2px solid red;
+    border-radius: 5px;
+    margin-top: 150px;
+    margin-left: 20px;
+    text-align: center;
+}
+.B{
+    color: red;
+    font-size: 35px;
+}
+.home{
+    filter: blur(8px);
+    border: 1px solid gray;
+}
+.shubham{
+    width: 250px;
+    border: 2px solid red;
+    background-color: #ffffff;
+    margin: 0px 480px;
+    display: inline-block;
+    border-radius: 15px;
+    text-align: center;
+    position: relative;
+    top: 250px;
+}
+button{
+    margin: 25px;
+    background-color: rgb(173, 19, 19);
+    border-radius: 10px;
+    color: white;
+}

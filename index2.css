@@ -1,0 +1,24 @@
+#III{
+   width: 100px;
+}
+.trial{
+    height: 280px;
+    width: 280px;
+    border: 2px solid red;
+    border-radius: 5px;
+    margin: 20px 500px;
+    text-align: center;
+}
+.C{
+    margin-left: 80px;
+}
+#I{
+    margin-left: 180px;
+    margin-top: 100px;
+    color: red;
+    font-size: 35px;
+}
+#II{
+    margin-left: 580px;
+    color: red;
+}
